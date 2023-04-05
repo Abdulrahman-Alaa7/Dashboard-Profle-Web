@@ -1,5 +1,5 @@
 # Dashboard-Profle-Web
-This project build by using `HTMl5`(8 Pages) and `CSS3`(Framework by yourself).(fully responsive)
+This project build by using `HTMl5`(8 Pages) and `CSS3`(Framework by yourself). (fully responsive)
 
 ## In This Project 
 There are 8 pages and make your CSS framework by yourself.
