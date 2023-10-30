@@ -1,5 +1,5 @@
 # Dashboard-Profle-Web
-This project build by using `HTMl5`(8 Pages) and `CSS3`(Framework by yourself). (fully responsive)
+This project build by using `HTMl5`(8 Pages) and `CSS3`(Personal Framework). (fully responsive)
 
 ## Preview 
 ### [Dashboard-Profile-Web](https://dashboard-profle-web.vercel.app/)
